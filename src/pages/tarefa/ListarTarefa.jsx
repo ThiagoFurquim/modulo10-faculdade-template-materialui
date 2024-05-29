@@ -87,7 +87,7 @@ const ListarTarefa = () => {
       {margin: '10px',
       width: '100%',
       color: 'black',
-      backgroundColor: '#00ff00'
+      backgroundColor: '#f5f5f5'
       }
     }>
         <CardHeader
